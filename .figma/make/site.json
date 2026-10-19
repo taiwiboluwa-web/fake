@@ -1,0 +1,10 @@
+{
+  "description": "Streamline student birthday celebrations with a secure platform for schools, enabling personalized greetings, message approvals, and delivery tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
